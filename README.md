@@ -6,8 +6,10 @@
   * Paginação na tela de lista, com endless scroll; :heavy_check_mark:
   * Cada repositório deve exibir: Nome do repositório, Descrição do Repositório, 
   Nome/Foto do autor, Número de Stars, Número de Forks; :heavy_check_mark:
-  * Coroutines para comunicação com a API;
-  * Testes no projeto (unitários e por tela);
-  * Testes instrumentados/funcionais (que naveguem pelo aplicativo como casos de uso);
-  * Cache de imagens e da API;
-  * Suportar mudanças de orientação das telas sem perder estado;
+  * Cache de imagens; :heavy_check_mark:
+  
+  * Coroutines para comunicação com a API; :x:
+  * Cache da API; :x:
+  * Testes no projeto (unitários e por tela); :x:
+  * Testes instrumentados/funcionais (que naveguem pelo aplicativo como casos de uso);  :x:
+  * Suportar mudanças de orientação das telas sem perder estado; :x:
