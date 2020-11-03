@@ -43,8 +43,7 @@ class RepositoryViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         nameAuthor.text = item.owner.login
         forks.text = item.forks_count.toString()
         stars.text = item.stargazers_count.toString()
-        Glide.with(itemView.context).load(item.owner.avatar_url).into(avatar)
+        Glide.with(itemView.context).load(item.owner.avatar_url).circleCrop().into(avatar)
     }
 
 }
-
