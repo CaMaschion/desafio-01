@@ -13,12 +13,6 @@
   * Testes no projeto (unitários e por tela); :x:
   * Testes instrumentados/funcionais (que naveguem pelo aplicativo como casos de uso);  :x:
   * Suportar mudanças de orientação das telas sem perder estado; :x:  
-  
-  
-  
-  
-  
-  
-  <img src="img/appgithub.gif" width=300>
-    
+      
+  <img src="img/appgithub.gif" width=300>   
   
