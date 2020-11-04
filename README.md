@@ -15,3 +15,6 @@
   * Suportar mudanças de orientação das telas sem perder estado; :x:  
   
   
+  
+  
+![](img/appgithub.gif)
