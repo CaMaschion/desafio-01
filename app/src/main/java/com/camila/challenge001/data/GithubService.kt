@@ -7,6 +7,6 @@ import retrofit2.http.Query
 
 interface GithubService {
 
-    @GET("https://api.github.com/search/repositories?q=language:kotlin&sort=stars")
+    @GET("/search/repositories?q=language:kotlin&sort=stars")
     fun getRepositories(@Query("page")page: Int ) : Call<GithubRepository>
 }
