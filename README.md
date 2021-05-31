@@ -16,5 +16,4 @@
       
   <img src="img/appgithub.gif" width=300>   
 
-https://dev.to/camaschion/recyclerview-cardview-koe
-  
+
